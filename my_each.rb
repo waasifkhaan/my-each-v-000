@@ -7,6 +7,6 @@ def my_each(array)
       end
     array
   else
-    puts " provide block to complete method"
+    " provide block to complete method"
   end    
  end
